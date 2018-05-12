@@ -1,2 +1,2 @@
 # ReplacementAlgorithms
-Replacement Algorithms
+Page Replacement Algorithms
